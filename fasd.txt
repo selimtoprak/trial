@@ -2,8 +2,11 @@ dasdlkj
 dasd
 sda
 <<<<<<< HEAD
+<<<<<<< HEAD
 adsa
 asdsaasdas
+=======
+>>>>>>> 47698a6dd4e513910afd1441df954be05542bdd9
 dsadad
 dasda
 =======
